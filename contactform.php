@@ -1,4 +1,4 @@
-# Nice contact form using bootsrap and jquery 
+# Nice contact form using bootstrap and jquery 
 
 
 
